@@ -1,0 +1,226 @@
+{
+  "stop": {
+      "details": "The stop sign is an octagonal red sign with white letters, indicating that drivers must come to a complete stop at the sign. It is typically found at intersections to manage traffic flow and prevent accidents.",
+      "action": "When you see a stop sign, you must come to a complete stop at the marked stop line. If there is no stop line, stop before entering the intersection or crosswalk. Check for pedestrians and other vehicles before proceeding."
+  },
+  "straight prohibited": {
+      "details": "The 'Straight Prohibited' sign indicates that vehicles are not allowed to continue straight ahead.",
+      "action": "When you see this sign, you must turn left or right as straight movement is not allowed."
+  },
+  "t intersection": {
+      "details": "A 'T Intersection' sign indicates that the road you are traveling on ends ahead and you must turn left or right.",
+      "action": "Prepare to turn left or right when you see this sign. Slow down and check for other vehicles before making the turn."
+  },
+  "u turn": {
+      "details": "The 'U Turn' sign indicates that making a U-turn is permitted at the indicated location.",
+      "action": "You can make a U-turn at this location. Ensure the road is clear of oncoming traffic before making the turn."
+  },
+  "u turn prohibited": {
+      "details": "The 'U Turn Prohibited' sign indicates that making a U-turn is not allowed.",
+      "action": "Do not attempt to make a U-turn when you see this sign. Continue driving straight or turn at the next available point."
+  },
+  "unguarded level crossing": {
+      "details": "An 'Unguarded Level Crossing' sign indicates that the railway crossing ahead is not equipped with gates or barriers.",
+      "action": "Approach the crossing with caution. Look and listen for approaching trains and only cross when it is safe."
+  },
+  "width limit": {
+      "details": "The 'Width Limit' sign indicates the maximum width of vehicles that are permitted on this road.",
+      "action": "Ensure your vehicle does not exceed the width limit indicated on the sign before proceeding."
+  },
+  "y intersection": {
+      "details": "A 'Y Intersection' sign indicates that the road ahead splits into two directions forming a 'Y' shape.",
+      "action": "Prepare to choose your direction and adjust your speed accordingly as you approach the intersection."
+  },
+  "side road right": {
+      "details": "The 'Side Road Right' sign indicates that a side road joins the main road from the right.",
+      "action": "Be prepared for vehicles merging from the right side road and adjust your speed accordingly."
+  },
+  "slippery road": {
+      "details": "The 'Slippery Road' sign warns that the road ahead may be slippery when wet or icy.",
+      "action": "Reduce your speed and drive cautiously. Avoid sudden maneuvers and maintain a safe distance from other vehicles."
+  },
+  "speed limit 100": {
+      "details": "The 'Speed Limit 100' sign indicates that the maximum speed allowed on this road is 100 km/h.",
+      "action": "Adjust your speed to comply with the posted speed limit of 100 km/h."
+  },
+  "speed limit 30": {
+      "details": "The 'Speed Limit 30' sign indicates that the maximum speed allowed on this road is 30 km/h.",
+      "action": "Adjust your speed to comply with the posted speed limit of 30 km/h."
+  },
+  "speed limit 50": {
+      "details": "The 'Speed Limit 50' sign indicates that the maximum speed allowed on this road is 50 km/h.",
+      "action": "Adjust your speed to comply with the posted speed limit of 50 km/h."
+  },
+  "staggered intersection": {
+      "details": "A 'Staggered Intersection' sign indicates that there are two intersections close to each other with side roads that are not directly opposite each other.",
+      "action": "Be prepared for vehicles entering or leaving the main road from both left and right sides."
+  },
+  "steep ascent": {
+      "details": "The 'Steep Ascent' sign indicates a steep uphill slope ahead.",
+      "action": "Shift to a lower gear to maintain control and power while climbing the hill."
+  },
+  "steep descent": {
+      "details": "The 'Steep Descent' sign indicates a steep downhill slope ahead.",
+      "action": "Shift to a lower gear and use engine braking to control your speed while descending the hill."
+  },
+  "restriction ends": {
+      "details": "The 'Restriction Ends' sign indicates the end of all previously posted restrictions.",
+      "action": "You may now drive without the previous restrictions. Continue to observe general traffic rules."
+  },
+  "right hand curve": {
+      "details": "The 'Right Hand Curve' sign indicates a sharp curve to the right ahead.",
+      "action": "Reduce your speed and prepare to turn right. Maintain control of your vehicle through the curve."
+  },
+  "right reverse bend": {
+      "details": "The 'Right Reverse Bend' sign indicates a series of bends with the first turn to the right.",
+      "action": "Slow down and navigate the bends carefully, staying within your lane."
+  },
+  "right turn prohibited": {
+      "details": "The 'Right Turn Prohibited' sign indicates that turning right is not allowed.",
+      "action": "Do not attempt to turn right at this location. Continue straight or turn left if allowed."
+  },
+  "road widens ahead": {
+      "details": "The 'Road Widens Ahead' sign indicates that the road will become wider ahead.",
+      "action": "Be aware of the change in road width and adjust your position and speed accordingly."
+  },
+  "roundabout": {
+      "details": "The 'Roundabout' sign indicates the presence of a roundabout ahead.",
+      "action": "Reduce your speed, yield to traffic already in the roundabout, and enter when safe. Follow the roundabout to your exit."
+  },
+  "school ahead": {
+      "details": "The 'School Ahead' sign indicates that a school is nearby, and children may be crossing the road.",
+      "action": "Reduce your speed and be extra cautious. Watch for children crossing the road and obey any additional signals or crossing guards."
+  },
+  "side road left": {
+      "details": "The 'Side Road Left' sign indicates that a side road joins the main road from the left.",
+      "action": "Be prepared for vehicles merging from the left side road and adjust your speed accordingly."
+  },
+  "no parking": {
+      "details": "The 'No Parking' sign indicates that parking is not allowed in the designated area.",
+      "action": "Do not park your vehicle in this area. Find an alternative parking spot."
+  },
+  "no stopping or standing": {
+      "details": "The 'No Stopping or Standing' sign indicates that stopping or standing your vehicle is not allowed in the designated area.",
+      "action": "Do not stop or stand your vehicle in this area. Keep moving until you find a permitted stopping area."
+  },
+  "overtaking prohibited": {
+      "details": "The 'Overtaking Prohibited' sign indicates that overtaking other vehicles is not allowed.",
+      "action": "Do not attempt to overtake other vehicles when you see this sign. Follow the traffic flow."
+  },
+  "pass either side": {
+      "details": "The 'Pass Either Side' sign indicates that vehicles may pass on either side of an obstruction.",
+      "action": "You can choose to pass the obstruction on the left or right side, based on traffic conditions."
+  },
+  "pedestrian crossing": {
+      "details": "The 'Pedestrian Crossing' sign indicates a designated crossing area for pedestrians.",
+      "action": "Slow down and be prepared to stop for pedestrians crossing the road."
+  },
+  "petrol pump ahead": {
+      "details": "The 'Petrol Pump Ahead' sign indicates the presence of a petrol station ahead.",
+      "action": "If you need fuel, prepare to turn into the petrol station. Follow any additional signs for entry and exit."
+  },
+  "quay side or river bank": {
+      "details": "The 'Quay Side or River Bank' sign indicates the presence of a quay side or river bank ahead.",
+      "action": "Drive cautiously and be aware of the potential drop-off. Do not drive too close to the edge."
+  },
+  "no entry": {
+      "details": "The 'No Entry' sign indicates that entry into a particular road or area is prohibited for all vehicles.",
+      "action": "Do not enter the road or area where this sign is posted. Find an alternative route."
+  },
+  "narrow road ahead": {
+      "details": "The 'Narrow Road Ahead' sign indicates that the road ahead becomes narrower.",
+      "action": "Reduce your speed and proceed with caution. Be prepared for oncoming traffic and limited space."
+  },
+  "narrow bridge ahead": {
+      "details": "The 'Narrow Bridge Ahead' sign indicates that a narrow bridge is ahead.",
+      "action": "Slow down and be prepared to yield to oncoming traffic if the bridge is too narrow for two vehicles to pass simultaneously."
+  },
+  "men at work": {
+      "details": "The 'Men at Work' sign indicates that road work is being carried out ahead.",
+      "action": "Reduce your speed, follow any temporary traffic signals or signs, and be prepared for workers and construction vehicles on the road."
+  },
+  "loose gravel": {
+      "details": "The 'Loose Gravel' sign indicates that the road surface ahead is covered with loose gravel.",
+      "action": "Reduce your speed and drive cautiously to avoid skidding and to prevent gravel from being thrown up by your tires."
+  },
+  "left turn prohibited": {
+      "details": "The 'Left Turn Prohibited' sign indicates that turning left is not allowed.",
+      "action": "Do not attempt to turn left at this location. Continue straight or turn right if allowed."
+  },
+  "left reverse bend": {
+      "details": "The 'Left Reverse Bend' sign indicates a series of bends with the first turn to the left.",
+      "action": "Slow down and navigate the bends carefully, staying within your lane."
+  },
+  "left hand curve": {
+      "details": "The 'Left Hand Curve' sign indicates a sharp curve to the left ahead.",
+      "action": "Reduce your speed and prepare to turn left. Maintain control of your vehicle through the curve."
+  },
+  "hump or rough road": {
+      "details": "The 'Hump or Rough Road' sign indicates an uneven road surface or speed bump ahead.",
+      "action": "Reduce your speed to avoid discomfort and damage to your vehicle. Proceed with caution."
+  },
+  "hospital ahead": {
+      "details": "The 'Hospital Ahead' sign indicates the presence of a hospital nearby.",
+      "action": "Drive cautiously, be aware of pedestrians and ambulances, and avoid using your horn in this area."
+  },
+  "horn prohibited": {
+      "details": "The 'Horn Prohibited' sign indicates that the use of horns is not allowed in the designated area.",
+      "action": "Do not use your horn in this area. Drive quietly and respect the noise restrictions."
+  },
+  "height limit": {
+      "details": "The 'Height Limit' sign indicates the maximum vehicle height permitted on the road ahead.",
+      "action": "Ensure your vehicle does not exceed the height limit indicated on the sign before proceeding."
+  },
+  "guarded level crossing": {
+      "details": "A 'Guarded Level Crossing' sign indicates that the railway crossing ahead is equipped with gates or barriers.",
+      "action": "Approach the crossing with caution. Stop if the gates are down or barriers are closed. Proceed only when it is safe."
+  },
+  "give way": {
+      "details": "The 'Give Way' sign indicates that drivers must yield to other traffic on the main road.",
+      "action": "Slow down and be prepared to stop if necessary. Yield to vehicles on the main road before proceeding."
+  },
+  "gap in median": {
+      "details": "The 'Gap in Median' sign indicates an opening in the central median of a divided road.",
+      "action": "Use the gap to make a U-turn or to cross the median. Yield to oncoming traffic before proceeding."
+  },
+  "falling rocks": {
+      "details": "The 'Falling Rocks' sign warns that the road ahead may have falling rocks or debris.",
+      "action": "Drive cautiously and be alert for falling rocks or debris on the road."
+  },
+  "dangerous dip": {
+      "details": "The 'Dangerous Dip' sign indicates a sudden dip in the road ahead.",
+      "action": "Reduce your speed and be prepared for a sudden change in the road level. Proceed with caution."
+  },
+  "cross road": {
+      "details": "The 'Cross Road' sign indicates that another road crosses the main road ahead.",
+      "action": "Be prepared for traffic entering or crossing from side roads. Slow down and proceed with caution."
+  },
+  "compulsory turn left": {
+      "details": "The 'Compulsory Keep Left' sign indicates that drivers must keep to the left of a traffic island or obstruction.",
+      "action": "Keep to the left of the traffic island or obstruction as indicated by the sign."
+  },
+  "compulsory turn right": {
+      "details": "The 'Compulsory Keep Right' sign indicates that drivers must keep to the right of a traffic island or obstruction.",
+      "action": "Keep to the right of the traffic island or obstruction as indicated by the sign."
+  },
+  "compulsory turn left ahead": {
+      "details": "The 'Compulsory Keep Left Ahead' sign indicates that drivers must keep to the left ahead.",
+      "action": "Prepare to keep to the left of the traffic island or obstruction as indicated by the sign."
+  },
+  "compulsory turn right ahead": {
+      "details": "The 'Compulsory Keep Right Ahead' sign indicates that drivers must keep to the right ahead.",
+      "action": "Prepare to keep to the right of the traffic island or obstruction as indicated by the sign."
+  },
+  "compulsory ahead": {
+      "details": "The 'Compulsory Ahead' sign indicates that drivers must proceed straight ahead.",
+      "action": "Continue driving straight ahead as indicated by the sign."
+  },
+  "axle load limit": {
+      "details": "The 'Axle Load Limit' sign indicates the maximum axle load permitted on the road ahead.",
+      "action": "Ensure your vehicle's axle load does not exceed the limit indicated on the sign before proceeding."
+  },
+  "all motor vehicles prohibited": {
+      "details": "The 'All Motor Vehicles Prohibited' sign indicates that all motor vehicles are not allowed on the road ahead.",
+      "action": "Do not enter the road ahead with any motor vehicle. Find an alternative route."
+  }
+}

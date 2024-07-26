@@ -1,0 +1,10 @@
+Flask
+Flask-SocketIO
+Flask-Cors
+opencv-python-headless
+python-dotenv
+requests
+inference-sdk
+python-socketio
+pymongo
+numpy

@@ -97,7 +97,7 @@ export default function Home() {
     };
 
     fetchSignData();
-    const interval = setInterval(fetchSignData, 10000);
+    const interval = setInterval(fetchSignData, 5000);
 
     return () => clearInterval(interval);
   }, []);
